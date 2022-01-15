@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on A large Web Dev Project.
 - 📫 You can send me a mail here kamal.vaishnav@iitgn.ac.in | kamalkvaishnav@gmail.com
+- ![](https://komarev.com/ghpvc/?username=Kamalkvaishnav&label=PROFILE+VIEWS)
 
 <!---
 Kamalkvaishnav/Kamalkvaishnav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
