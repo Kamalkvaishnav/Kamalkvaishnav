@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kamalkvaishnav
 - 👀 I’m interested in Web Dev, App Dev, Game Dev, and other technical stuff.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning App Development.
 - 💞️ I’m looking to collaborate on a devlopment Project.
 - 📫 You can send me a mail here kamal.vaishnav@iitgn.ac.in | kamalkvaishnav@gmail.com
 - ![](https://komarev.com/ghpvc/?username=Kamalkvaishnav&color=green)
